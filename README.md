@@ -7,5 +7,3 @@ I write articles, text-based courses, and build software applications.
 ## View my portfolio at [stephcrown.com](https://stephcrown.com)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steph-crown)](https://github.com/anuraghazra/github-readme-stats)
