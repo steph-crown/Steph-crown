@@ -6,7 +6,7 @@
   </h1>
 
   <p>
-    <a href="https://stephcrown.com"><img src="https://img.shields.io/badge/Portfolio-stephcrown.com-A177F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://stephcrown.com"><img src="https://img.shields.io/badge/Portfolio-stephcrown.com-00C0C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://x.com/stephcrown06"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="https://linkedin.com/in/stephcrown"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:emmanuelstephen024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -77,12 +77,12 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steph-crown&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=steph-crown&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=steph-crown&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0C2&icon_color=00C0C2&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=steph-crown&theme=tokyonight&hide_border=true&background=0D1117&ring=00C0C2&fire=00C0C2&currStreakLabel=00C0C2" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-crown&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-crown&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0C2&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="165" />
 </div>
 
 ---
@@ -90,7 +90,7 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steph-crown&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steph-crown&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C0C2&line=00C0C2&point=FFFFFF" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -98,7 +98,7 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 ### ⏱️ Weekly Coding Time
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephcrown&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephcrown&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0C2&text_color=C9D1D9&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -110,11 +110,11 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 
 <div align="center">
 
-  [![FinTrack](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=fintrack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9)](https://github.com/steph-crown/fintrack)
-  [![FileSearch](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=filesearch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9)](https://github.com/steph-crown/filesearch)
+  [![FinTrack](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=fintrack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0C2&text_color=C9D1D9)](https://github.com/steph-crown/fintrack)
+  [![FileSearch](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=filesearch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0C2&text_color=C9D1D9)](https://github.com/steph-crown/filesearch)
 
-  [![DSA](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=dsa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9)](https://github.com/steph-crown/dsa)
-  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=stephcrown.com&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9)](https://github.com/steph-crown/stephcrown.com)
+  [![DSA](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=dsa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0C2&text_color=C9D1D9)](https://github.com/steph-crown/dsa)
+  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=stephcrown.com&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0C2&text_color=C9D1D9)](https://github.com/steph-crown/stephcrown.com)
 
 </div>
 
@@ -124,7 +124,7 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-stephcrown.com-A177F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stephcrown.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-stephcrown.com-00C0C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stephcrown.com)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stephcrown06)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephcrown)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelstephen024@gmail.com)
@@ -144,7 +144,7 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 
   ---
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=steph-crown&color=A177F7&style=for-the-badge&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=steph-crown&color=00C0C2&style=for-the-badge&label=Profile+Views)
 
   **⭐️ From [steph-crown](https://github.com/steph-crown) | Building the future, one commit at a time 🚀**
 
