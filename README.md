@@ -2,7 +2,7 @@
   <!-- <img src="banner.png" alt="Stephen Emmanuel - Software Engineer" width="100%" style="height: 50px; object-fit: cover;" /> -->
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C0C2&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Stephen+Emmanuel+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;AI%2FML+Enthusiast+%7C+IoT+Explorer;Building+Digital+Products+That+Matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&duration=2800&pause=2000&color=00C0C2&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Stephen+Emmanuel+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;AI%2FML+Enthusiast+%7C+IoT+Explorer;Building+Digital+Products+That+Matter" alt="Typing SVG" />
   </h1>
 
   <p>
