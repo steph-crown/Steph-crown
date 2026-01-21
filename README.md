@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="banner.png" alt="Stephen Emmanuel - Software Engineer" width="100%" />
+  <img src="banner.png" alt="Stephen Emmanuel - Software Engineer" width="100%" style="height: 50px; object-fit: cover;" />
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Stephen+Emmanuel+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;AI%2FML+Enthusiast+%7C+IoT+Explorer;Building+Digital+Products+That+Matter" alt="Typing SVG" style="height: 100px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C0C2&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Stephen+Emmanuel+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;AI%2FML+Enthusiast+%7C+IoT+Explorer;Building+Digital+Products+That+Matter" alt="Typing SVG" />
   </h1>
 
   <p>
@@ -83,7 +83,6 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-crown&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=steph-crown&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" height="165" />
 </div>
 
 ---
@@ -104,10 +103,6 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
 
 ---
 
