@@ -78,7 +78,7 @@ I'm a **software engineer** with over **5 years of experience** building cool an
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=steph-crown&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steph-crown&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=steph-crown&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
